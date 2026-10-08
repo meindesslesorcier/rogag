@@ -98,7 +98,7 @@ CARTES = [
         "type": "Visa Premier",
         "numero": "4974 •••• •••• 8821",
         "expiration": "08/28",
-        "titulaire": "Jean-Michel Linas,
+        "titulaire": "Jean-Michel Linas",
         "statut": "Active",
         "plafond_paiement": 5000,
         "plafond_retrait": 1000,
